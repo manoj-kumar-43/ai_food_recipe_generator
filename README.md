@@ -94,14 +94,6 @@ npm run build
 | DELETE | `/api/recipes/saved/:id` | Delete a recipe         |
 | GET    | `/api/health`          | Health check              |
 
-
-## 🎥 Demo
-
-![Project Demo](./assets/demo.gif)
-
-👉 Full Video:
-https://res.cloudinary.com/dbbxkwmcu/video/upload/v1781938498/VID_20260612_195544_ro2zlb.mp4
-
 ## 🎥 Project Demo
 
 <a href="https://res.cloudinary.com/dbbxkwmcu/video/upload/v1781938498/VID_20260612_195544_ro2zlb.mp4">
