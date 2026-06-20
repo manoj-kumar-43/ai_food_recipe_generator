@@ -101,3 +101,9 @@ npm run build
 
 👉 Full Video:
 https://res.cloudinary.com/dbbxkwmcu/video/upload/v1781938498/VID_20260612_195544_ro2zlb.mp4
+
+## 🎥 Project Demo
+
+<a href="https://res.cloudinary.com/dbbxkwmcu/video/upload/v1781938498/VID_20260612_195544_ro2zlb.mp4">
+  <img src="./assets/demo-thumbnail.png" alt="Project Demo" width="800">
+</a>
