@@ -1,6 +1,6 @@
 # AI Food Recipe Generator
 
-Upload a photo of your ingredients or a dish, and AI generates personalized recipes with nutritional information.
+AI Recipe Generator is a full-stack web application built on the MERN stack (MongoDB, Express, React, Node.js). A user uploads a photo of food or ingredients, and the app detects what’s in the photo, lets the user adjust the ingredient list, optionally filter by dietary preference, and then generates a complete, structured recipe via AI.
 
 ## Features
 
